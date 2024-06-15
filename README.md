@@ -1,4 +1,4 @@
-# Pet Classifier: Predicting Dogs and Cats
+# Predicting Dogs and Cats
 
 ## Project Overview:
 This project aims to create a model that predicts whether an image contains a dog or a cat using deep learning techniques.
